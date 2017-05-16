@@ -1,2 +1,2 @@
 # RecyclerViewExample
-Basic Android that uses RecyclerView and CardView
+Basic Android App that uses RecyclerView and CardView

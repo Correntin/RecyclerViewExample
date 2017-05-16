@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="fr.corentin.android.testapp.MainActivity">
+    <item
+        android:id="@+id/menu_main_action_add_city"
+        android:icon="@mipmap/menu_add_icon"
+        android:orderInCategory="100"
+        android:title="@string/action_menu_add_city"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_main_action_del_city"
+        android:icon="@mipmap/menu_del_icon"
+        android:orderInCategory="100"
+        android:title="@string/action_menu_del_city"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_main_action_dev_info"
+        android:orderInCategory="100"
+        android:title="@string/action_menu_dev_info"
+        app:showAsAction="never" />
+</menu>

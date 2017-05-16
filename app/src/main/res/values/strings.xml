@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerView Example</string>
+    <string name="action_menu_add_city">Add city</string>
+    <string name="action_menu_del_city">Delete first city</string>
+    <string name="action_menu_dev_info">About</string>
+    <string name="dev_info_message">Basic app to demonstrate how to use RecyclerView</string>
+    <string name="share_button">Share</string>
+    <string name="more_info_button">More info</string>
+</resources>
